@@ -1,0 +1,47 @@
+Program called with the following parameters:
+ * downscale = 2
+ * ini = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/PrepareDenseScene/67dcdbc0d63acb4d1762a5e3087a032c1b0ed571/mvs.ini"
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e"
+ * rangeSize = 3
+ * rangeStart = 24
+ * refineGammaC = 15.5
+ * refineGammaP = 8
+ * refineMaxTCams = 6
+ * refineNDepthsToRefine = 31
+ * refineNSamplesHalf = 150
+ * refineNiters = 100
+ * refineSigma = 15
+ * refineUseTcOrRcPixSize = 0
+ * refineWSH = 3
+ * sgmGammaC = 5.5
+ * sgmGammaP = 8
+ * sgmMaxTCams = 10
+ * sgmWSH = 4
+ * verboseLevel = "info"
+
+[23:53:19.879371][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    GeForce GPU
+	- compute capability:      5.0
+	- total device memory:     1024 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- number of SM(x)s:        3
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+
+[23:53:20.254305][info] Supported CUDA-Enabled GPU detected.
+[23:53:20.254305][info] Found 1 image dimension(s): 
+[23:53:20.254305][info]  - [3264x2448]
+[23:53:20.254305][info] Overall maximum dimension: [1632x1224]
+[23:53:20.254305][info] No camera to process.

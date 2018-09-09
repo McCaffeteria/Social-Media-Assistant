@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm\" --featuresFolders \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936\" --imagePairsList \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt\" --describerTypes sift --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --maxMatches 0 --savePutativeMatches False --guidedMatching False --exportDebugFiles False --verboseLevel info --output \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureMatching/bd2a6944e922db46a04badfea8b2537018a478e4\" --rangeStart 20 --rangeSize 10",
+    "env": null,
+    "startDateTime": "2018-09-07 23:52:31.088841",
+    "endDateTime": "2018-09-07 23:52:37.155053",
+    "elapsedTime": 6.066212177276611,
+    "hostname": "McC-Surface-Book",
+    "sessionUid": "182d9594-b31a-11e8-91d1-b4ae2bc163ea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:06.066212"
+}

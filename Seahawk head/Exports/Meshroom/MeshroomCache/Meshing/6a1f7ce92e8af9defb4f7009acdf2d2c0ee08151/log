@@ -1,0 +1,30 @@
+Program called with the following parameters:
+ * angleFactor = 15
+ * contributeMarginFactor = 2
+ * depthMapFilterFolder = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMapFilter/053e6b282e51260989caf46d847cc5f9baa88404"
+ * depthMapFolder = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e"
+ * ini = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/PrepareDenseScene/67dcdbc0d63acb4d1762a5e3087a032c1b0ed571/mvs.ini"
+ * maxInputPoints = 50000000
+ * maxPoints = 5000000
+ * maxPointsPerVoxel = 1000000
+ * minAngleThreshold = 1
+ * minStep = 2
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/Meshing/6a1f7ce92e8af9defb4f7009acdf2d2c0ee08151/mesh.obj"
+ * partitioning =  Unknown Type "enum EPartitioningMode"
+ * pixSizeMarginFinalCoef = 4
+ * pixSizeMarginInitCoef = 2
+ * refineFuse = 1
+ * repartition =  Unknown Type "enum ERepartitionMode"
+ * simFactor = 15
+ * simGaussianSize = 10
+ * simGaussianSizeInit = 10
+ * verboseLevel = "info"
+ * voteMarginFactor = 4
+
+[23:53:25.268564][info] Found 1 image dimension(s): 
+[23:53:25.268564][info]  - [3264x2448]
+[23:53:25.268564][info] Overall maximum dimension: [1632x1224]
+[23:53:25.268564][warning] repartitionMode: 1
+[23:53:25.268564][warning] partitioningMode: 1
+[23:53:25.268564][info] Meshing mode: multi-resolution, partitioning: single block.
+[23:53:25.268564][info] Estimate space.

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "DepthMapFilter_1",
+    "nodeType": "DepthMapFilter",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_depthMapFiltering  --ini \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/PrepareDenseScene/67dcdbc0d63acb4d1762a5e3087a032c1b0ed571/mvs.ini\" --depthMapFolder \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e\" --nNearestCams 10 --minNumOfConsistensCams 3 --minNumOfConsistensCamsWithLowSimilarity 4 --pixSizeBall 0 --pixSizeBallWithLowSimilarity 0 --verboseLevel info --output \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMapFilter/053e6b282e51260989caf46d847cc5f9baa88404\" --rangeStart 0 --rangeSize 10",
+    "env": null,
+    "startDateTime": "2018-09-07 23:53:21.245417",
+    "endDateTime": "2018-09-07 23:53:24.356859",
+    "elapsedTime": 3.1114418506622314,
+    "hostname": "McC-Surface-Book",
+    "sessionUid": "182d9594-b31a-11e8-91d1-b4ae2bc163ea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:03.111442"
+}

@@ -1,0 +1,142 @@
+Program called with the following parameters:
+ * describerTypes = "sift"
+ * extraInfoFolder = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef"
+ * featuresFolders =  = [C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936]
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator = "acransac"
+ * lockScenePreviouslyReconstructed = 0
+ * matchesFolders =  = [C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureMatching/bd2a6944e922db46a04badfea8b2537018a478e4]
+ * maxAngleInitialPair = 40
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNumberOfObservationsForTriangulation = 2
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef/sfm.abc"
+ * outputViewsAndPoses = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef/cameras.sfm"
+ * refineIntrinsics = 1 (default)
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useTrackFiltering = 1 (default)
+ * verboseLevel = "info"
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:52:37.738129][info] Fuse matches into tracks: 
+	- # tracks: 5672
+	- # images in tracks: 29
+[23:52:37.753758][info] TrackLength, Occurrence
+[23:52:37.753758][info] 	2	5060
+[23:52:37.753758][info] 	3	574
+[23:52:37.753758][info] 	4	35
+[23:52:37.753758][info] 	5	2
+[23:52:37.753758][info] 	6	1
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***[23:52:37.753758][info] AutomaticInitialPairChoice, test I: 33334523, J: 875334421, nbCommonTracks: 116*
+*[23:52:37.753758][info] AutomaticInitialPairChoice, test I: 33334523, J: 1170024849, nbCommonTracks: 61
+[23:52:37.753758][info] AutomaticInitialPairChoice, test I: 166622884, J: 875334421, nbCommonTracks: 76
+[23:52:37.753758][info] AutomaticInitialPairChoice, test I: 362428898, J: 1076041676, nbCommonTracks: 188
+*[23:52:37.784994][info] AutomaticInitialPairChoice, test I: 362428898, J: 1170024849, nbCommonTracks: 91
+*[23:52:37.784994][info] AutomaticInitialPairChoice, test I: 362428898, J: 2109941572, nbCommonTracks: 162
+**[23:52:37.784994][info] AutomaticInitialPairChoice, test I: 382544317, J: 1199195009, nbCommonTracks: 346
+*[23:52:37.800633][info] AutomaticInitialPairChoice, test I: 382544317, J: 2091417175, nbCommonTracks: 281
+*[23:52:37.816239][info] AutomaticInitialPairChoice, test I: 504790065, J: 857748131, nbCommonTracks: 58
+**[23:52:37.831859][info] AutomaticInitialPairChoice, test I: 504790065, J: 2043545517, nbCommonTracks: 95
+*[23:52:37.847474][info] AutomaticInitialPairChoice, test I: 670338561, J: 745117386, nbCommonTracks: 211
+*[23:52:37.847474][info] AutomaticInitialPairChoice, test I: 670338561, J: 903486380, nbCommonTracks: 231
+**[23:52:37.847474][info] AutomaticInitialPairChoice, test I: 670338561, J: 2002237245, nbCommonTracks: 386
+*[23:52:37.863103][info] AutomaticInitialPairChoice, test I: 745117386, J: 903486380, nbCommonTracks: 121
+*[23:52:37.894338][info] AutomaticInitialPairChoice, test I: 745117386, J: 1037918752, nbCommonTracks: 281
+**[23:52:37.894338][info] AutomaticInitialPairChoice, test I: 745117386, J: 2002237245, nbCommonTracks: 471
+*[23:52:37.894338][info] AutomaticInitialPairChoice, test I: 857748131, J: 1639819975, nbCommonTracks: 75
+*[23:52:37.909959][info] AutomaticInitialPairChoice, test I: 875334421, J: 2109941572, nbCommonTracks: 68
+**[23:52:37.925580][info] AutomaticInitialPairChoice, test I: 903486380, J: 2002237245, nbCommonTracks: 726
+*[23:52:37.941202][info] AutomaticInitialPairChoice, test I: 943455602, J: 1280491811, nbCommonTracks: 53
+*[23:52:37.956823][info] AutomaticInitialPairChoice, test I: 943455602, J: 1563760413, nbCommonTracks: 125
+*[23:52:37.972445][info] AutomaticInitialPairChoice, test I: 951426046, J: 1400325867, nbCommonTracks: 321
+**[23:52:37.972445][info] AutomaticInitialPairChoice, test I: 951426046, J: 1563760413, nbCommonTracks: 331
+*[23:52:37.988074][info] AutomaticInitialPairChoice, test I: 951426046, J: 2002237245, nbCommonTracks: 69
+*[23:52:38.003693][info] AutomaticInitialPairChoice, test I: 1037918752, J: 1466350222, nbCommonTracks: 104
+**[23:52:38.019316][info] AutomaticInitialPairChoice, test I: 1037918752, J: 1617173940, nbCommonTracks: 97
+*[23:52:38.034934][info] AutomaticInitialPairChoice, test I: 1037918752, J: 2002237245, nbCommonTracks: 101
+*[23:52:38.034934][info] AutomaticInitialPairChoice, test I: 1076041676, J: 1170024849, nbCommonTracks: 211
+**[23:52:38.050556][info] AutomaticInitialPairChoice, test I: 1076041676, J: 1933281601, nbCommonTracks: 241
+*[23:52:38.066200][info] AutomaticInitialPairChoice, test I: 1120713024, J: 1199195009, nbCommonTracks: 95
+*[23:52:38.066200][info] AutomaticInitialPairChoice, test I: 1120713024, J: 1933281601, nbCommonTracks: 55
+**[23:52:38.097420][info] AutomaticInitialPairChoice, test I: 1199195009, J: 2091417175, nbCommonTracks: 319
+*[23:52:38.097420][info] AutomaticInitialPairChoice, test I: 1280491811, J: 2091417175, nbCommonTracks: 56
+*[23:52:38.097420][info] AutomaticInitialPairChoice, test I: 1400325867, J: 1563760413, nbCommonTracks: 171
+**[23:52:38.113043][info] AutomaticInitialPairChoice, test I: 1400325867, J: 2002237245, nbCommonTracks: 121
+*[23:52:38.144279][info] AutomaticInitialPairChoice, test I: 1466350222, J: 1617173940, nbCommonTracks: 118
+*[23:52:38.144279][info] AutomaticInitialPairChoice, test I: 1617173940, J: 2043545517, nbCommonTracks: 53
+***
+[23:52:38.159900][info] AutomaticInitialPairChoice, test I: 1961011513, J: 2091417175, nbCommonTracks: 59
+[23:52:38.191142][info] Initial pair is:
+  A - view id: 903486380 - filepath: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6597.JPG
+  B - view id: 2002237245 - filepath: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6581.JPG
+[23:52:38.191142][info] 726 matches in the image pair for the initial pose estimation.
+[23:52:38.675403][info] Remove outliers: 
+	- # outliers residual error: 1
+	- # outliers angular error: 0
+[23:52:38.691025][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[23:52:38.831622][info] Initial pair is: 903486380, 2002237245
+[23:52:38.831622][info] Begin Incremental Reconstruction:
+	- mode: SfM augmentation
+	- # images in input: 29
+	- # images in resection: 27
+	- # landmarks in input: 227
+	- # cameras already calibrated: 2
+[23:52:38.831622][info] Structure from Motion statistics:
+	- # input images: 29
+	- # cameras calibrated: 2
+	- # landmarks: 227
+	- elapsed time: 0
+	- residual RMSE: 0.615174
+[23:52:38.831622][info] Histogram of residuals:
+
+4.76e-05	|	488
+0.298	|	191
+0.596	|	107
+0.895	|	61
+1.19	|	31
+1.49	|	11
+1.79	|	11
+2.09	|	4
+2.39	|	2
+2.68	|	2
+2.98
+
+[23:52:38.831622][info] # tracks: 227
+[23:52:38.831622][info] Tracks Length min: 2
+[23:52:38.831622][info] Tracks Length median: 2
+[23:52:38.831622][info] Tracks Length max: 2
+[23:52:38.831622][info] Tracks Length mean: 2
+[23:52:38.831622][info] Histogram of tracks length:
+
+2	|	227
+3
+
+
+Compute scene structure color
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:52:39.310464][info] Structure from motion took (s): 1.608000
+[23:52:39.310464][info] Generating HTML report...
+[23:52:39.341707][info] Export SfMData to disk: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef/sfm.abc
+[23:52:39.482307][info] Structure from Motion results:
+	- # input images: 29
+	- # cameras calibrated: 2
+	- # landmarks: 227

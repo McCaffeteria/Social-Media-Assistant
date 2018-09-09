@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "ImageMatching_1",
+    "nodeType": "ImageMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_imageMatching  --input \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm\" --featuresFolders \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936\" --tree \"C:\\Users\\allkn\\Documents\\Meshroom\\Meshroom-2018.1.0\\aliceVision\\share\\aliceVision\\vlfeat_K80L3.SIFT.tree\" --weights \"\" --minNbImages 200 --maxDescriptors 500 --nbMatches 50 --verboseLevel info --output \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt\" ",
+    "env": null,
+    "startDateTime": "2018-09-07 23:51:34.489437",
+    "endDateTime": "2018-09-07 23:51:34.850163",
+    "elapsedTime": 0.36072587966918945,
+    "hostname": "McC-Surface-Book",
+    "sessionUid": "182d9594-b31a-11e8-91d1-b4ae2bc163ea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.360726"
+}

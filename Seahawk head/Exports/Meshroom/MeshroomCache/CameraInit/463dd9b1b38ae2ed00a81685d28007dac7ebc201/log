@@ -1,0 +1,18 @@
+Program called with the following parameters:
+ * allowIncompleteOutput = 0 (default)
+ * allowSingleView = 1
+ * defaultCameraModel = "" (default)
+ * defaultFieldOfView = 45
+ * defaultFocalLengthPix = -1 (default)
+ * defaultIntrinsic = "" (default)
+ * groupCameraModel = 2 (default)
+ * imageFolder = "" (default)
+ * input = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201//viewpoints.sfm"
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm"
+ * sensorDatabase = "C:\Users\allkn\Documents\Meshroom\Meshroom-2018.1.0\aliceVision\share\aliceVision\cameraSensors.db"
+ * verboseLevel = "info"
+
+[23:50:30.126256][info] CameraInit report:
+	- # views listed in SfMData: 29
+	- # views with an initialized intrinsic listed in SfMData: 29
+	- # intrinsics listed in SfMData: 1

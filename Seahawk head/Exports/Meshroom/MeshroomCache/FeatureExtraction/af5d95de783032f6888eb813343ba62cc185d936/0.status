@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm\" --describerTypes sift --describerPreset normal --forceCpuExtraction True --verboseLevel info --output \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936\" --rangeStart 0 --rangeSize 30",
+    "env": null,
+    "startDateTime": "2018-09-07 23:50:30.175846",
+    "endDateTime": "2018-09-07 23:51:34.471488",
+    "elapsedTime": 64.2966320514679,
+    "hostname": "McC-Surface-Book",
+    "sessionUid": "182d9594-b31a-11e8-91d1-b4ae2bc163ea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:01:04.296632"
+}

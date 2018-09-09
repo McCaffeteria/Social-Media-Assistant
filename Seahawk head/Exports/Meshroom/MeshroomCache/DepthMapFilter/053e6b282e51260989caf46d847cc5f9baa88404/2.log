@@ -1,0 +1,17 @@
+Program called with the following parameters:
+ * depthMapFolder = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e"
+ * ini = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/PrepareDenseScene/67dcdbc0d63acb4d1762a5e3087a032c1b0ed571/mvs.ini"
+ * minNumOfConsistensCams = 3
+ * minNumOfConsistensCamsWithLowSimilarity = 4
+ * nNearestCams = 10
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMapFilter/053e6b282e51260989caf46d847cc5f9baa88404"
+ * pixSizeBall = 0
+ * pixSizeBallWithLowSimilarity = 0
+ * rangeSize = 10
+ * rangeStart = 20
+ * verboseLevel = "info"
+
+[23:53:24.905395][info] Found 1 image dimension(s): 
+[23:53:24.905395][info]  - [3264x2448]
+[23:53:24.921069][info] Overall maximum dimension: [1632x1224]
+[23:53:24.921069][info] No camera to process.

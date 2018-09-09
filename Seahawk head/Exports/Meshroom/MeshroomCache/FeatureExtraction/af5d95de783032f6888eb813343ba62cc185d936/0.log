@@ -1,0 +1,70 @@
+Program called with the following parameters:
+ * describerPreset = "normal"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * input = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm"
+ * maxThreads = 0 (default)
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936"
+ * rangeSize = 30
+ * rangeStart = 0
+ * verboseLevel = "info"
+
+[23:50:30.973306][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6583.JPG' [cpu]
+[23:50:30.988927][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6599.JPG' [cpu]
+[23:50:31.020174][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6584.JPG' [cpu]
+[23:50:31.020174][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6573.JPG' [cpu]
+[23:50:37.970467][info]       1098 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6599.JPG'
+[23:50:38.144311][info]       2614 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6583.JPG'
+[23:50:38.378629][info]       2178 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6573.JPG'
+[23:50:38.597325][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6574.JPG' [cpu]
+[23:50:38.597325][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6586.JPG' [cpu]
+[23:50:38.675447][info]       5102 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6584.JPG'
+[23:50:38.784784][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6597.JPG' [cpu]
+[23:50:39.128451][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6588.JPG' [cpu]
+[23:50:45.758788][info]       1032 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6574.JPG'
+[23:50:46.086839][info]       3533 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6586.JPG'
+[23:50:46.274289][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6601.JPG' [cpu]
+[23:50:46.508608][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6591.JPG' [cpu]
+[23:50:46.742927][info]       2675 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6588.JPG'
+[23:50:47.195955][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6592.JPG' [cpu]
+[23:50:47.695829][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6597.JPG'
+[23:50:48.242574][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6593.JPG' [cpu]
+[23:50:53.911700][info]       2367 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6591.JPG'
+[23:50:54.489691][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6581.JPG' [cpu]
+[23:50:54.786493][info]       2786 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6592.JPG'
+[23:50:55.052054][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6601.JPG'
+[23:50:55.208269][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6596.JPG' [cpu]
+[23:50:55.489455][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6589.JPG' [cpu]
+[23:50:55.833119][info]       3161 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6593.JPG'
+[23:50:56.348636][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6595.JPG' [cpu]
+[23:51:03.118238][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6581.JPG'
+[23:51:03.118238][info]       2886 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6589.JPG'
+[23:51:03.243215][info]       5911 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6596.JPG'
+[23:51:03.709766][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6577.JPG' [cpu]
+[23:51:03.709766][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6598.JPG' [cpu]
+[23:51:03.741009][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6576.JPG' [cpu]
+[23:51:04.925233][info]       7476 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6595.JPG'
+[23:51:05.362631][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6579.JPG' [cpu]
+[23:51:10.719269][info]       1632 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6577.JPG'
+[23:51:11.031695][info]       1500 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6576.JPG'
+[23:51:11.031695][info]       4236 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6598.JPG'
+[23:51:11.406606][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6590.JPG' [cpu]
+[23:51:11.503946][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6594.JPG' [cpu]
+[23:51:11.582053][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6582.JPG' [cpu]
+[23:51:12.894251][info]       4670 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6579.JPG'
+[23:51:13.347267][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6585.JPG' [cpu]
+[23:51:18.720995][info]       2987 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6590.JPG'
+[23:51:19.189640][info]       5094 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6594.JPG'
+[23:51:19.298983][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6600.JPG' [cpu]
+[23:51:19.939455][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6578.JPG' [cpu]
+[23:51:20.675302][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6582.JPG'
+[23:51:21.050214][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6580.JPG' [cpu]
+[23:51:21.925007][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6585.JPG'
+[23:51:22.268684][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6587.JPG' [cpu]
+[23:51:27.194734][info]       5848 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6600.JPG'
+[23:51:27.294663][info]       2116 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6578.JPG'
+[23:51:29.634883][info]       10000 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6580.JPG'
+[23:51:29.700421][info]       2317 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6587.JPG'
+[23:51:30.112562][info] Extracting sift features from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6575.JPG' [cpu]
+[23:51:34.352800][info]       1445 sift features extracted from view 'C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6575.JPG'
+[23:51:34.359776][info] Task done in (s): 63.944000

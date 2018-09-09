@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm\" --featuresFolders \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936\" --matchesFolders \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureMatching/bd2a6944e922db46a04badfea8b2537018a478e4\" --describerTypes sift --localizerEstimator acransac --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --maxNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef/sfm.abc\" --outputViewsAndPoses \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef/cameras.sfm\" --extraInfoFolder \"C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/StructureFromMotion/f7231fb7fa2499e1010275dba4c1a8f7a872ceef\" ",
+    "env": null,
+    "startDateTime": "2018-09-07 23:52:37.179834",
+    "endDateTime": "2018-09-07 23:52:39.529167",
+    "elapsedTime": 2.349332809448242,
+    "hostname": "McC-Surface-Book",
+    "sessionUid": "182d9594-b31a-11e8-91d1-b4ae2bc163ea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:02.349333"
+}

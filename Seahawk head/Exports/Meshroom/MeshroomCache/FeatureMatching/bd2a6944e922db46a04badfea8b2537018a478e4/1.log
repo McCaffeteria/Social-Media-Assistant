@@ -1,0 +1,122 @@
+Program called with the following parameters:
+ * describerTypes = "sift"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureExtraction/af5d95de783032f6888eb813343ba62cc185d936]
+ * geometricError = 0 (default)
+ * geometricEstimator = "acransac"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt"
+ * input = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/CameraInit/463dd9b1b38ae2ed00a81685d28007dac7ebc201/cameraInit.sfm"
+ * matchFilePerImage = 1 (default)
+ * maxIteration = 2048
+ * maxMatches = 0
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/FeatureMatching/bd2a6944e922db46a04badfea8b2537018a478e4"
+ * photometricMatchingMethod = "ANN_L2"
+ * rangeSize = 10
+ * rangeStart = 20
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+[23:52:31.370022][info] Load pair list from file: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt
+[23:52:31.370022][info] loadPairs: image pair (1563760413, 1617173940) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.370022][info] loadPairs: image pair (1563760413, 1639819975) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 1933281601) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 1961011513) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 2002237245) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1563760413, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 1639819975) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 1933281601) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 1961011513) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 2002237245) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.385635][info] loadPairs: image pair (1617173940, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1617173940, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 1933281601) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 1961011513) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 2002237245) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1639819975, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1933281601, 1961011513) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1933281601, 2002237245) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1933281601, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1933281601, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1933281601, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.401265][info] loadPairs: image pair (1961011513, 2002237245) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (1961011513, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (1961011513, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (1961011513, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2002237245, 2043545517) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2002237245, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2002237245, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2043545517, 2091417175) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2043545517, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] loadPairs: image pair (2091417175, 2109941572) added. File: "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/ImageMatching/6bd8cfe5d7088cf8e7563c10c36300dafdcf1e22/imageMatches.txt".
+[23:52:31.416920][info] Number of pairs: 36
+[23:52:31.416920][info] Putative matches
+[23:52:31.416920][info] There are 29 views and 36 image pairs.
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************[23:52:31.510608][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:52:35.525281][info] 36 putative image pair matches
+[23:52:35.525281][info] 	- image pair (1563760413, 1617173940) contains 67 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 1639819975) contains 38 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 1933281601) contains 72 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 1961011513) contains 50 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 2002237245) contains 138 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 2043545517) contains 50 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 2091417175) contains 49 putative matches.
+[23:52:35.525281][info] 	- image pair (1563760413, 2109941572) contains 82 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 1639819975) contains 40 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 1933281601) contains 68 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 1961011513) contains 65 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 2002237245) contains 111 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 2043545517) contains 125 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 2091417175) contains 77 putative matches.
+[23:52:35.525281][info] 	- image pair (1617173940, 2109941572) contains 69 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 1933281601) contains 69 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 1961011513) contains 40 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 2002237245) contains 98 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 2043545517) contains 44 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 2091417175) contains 65 putative matches.
+[23:52:35.540902][info] 	- image pair (1639819975, 2109941572) contains 75 putative matches.
+[23:52:35.540902][info] 	- image pair (1933281601, 1961011513) contains 48 putative matches.
+[23:52:35.540902][info] 	- image pair (1933281601, 2002237245) contains 124 putative matches.
+[23:52:35.540902][info] 	- image pair (1933281601, 2043545517) contains 42 putative matches.
+[23:52:35.540902][info] 	- image pair (1933281601, 2091417175) contains 61 putative matches.
+[23:52:35.540902][info] 	- image pair (1933281601, 2109941572) contains 81 putative matches.
+[23:52:35.540902][info] 	- image pair (1961011513, 2002237245) contains 85 putative matches.
+[23:52:35.540902][info] 	- image pair (1961011513, 2043545517) contains 48 putative matches.
+[23:52:35.540902][info] 	- image pair (1961011513, 2091417175) contains 169 putative matches.
+[23:52:35.540902][info] 	- image pair (1961011513, 2109941572) contains 61 putative matches.
+[23:52:35.540902][info] 	- image pair (2002237245, 2043545517) contains 33 putative matches.
+[23:52:35.540902][info] 	- image pair (2002237245, 2091417175) contains 62 putative matches.
+[23:52:35.540902][info] 	- image pair (2002237245, 2109941572) contains 84 putative matches.
+[23:52:35.540902][info] 	- image pair (2043545517, 2091417175) contains 55 putative matches.
+[23:52:35.540902][info] 	- image pair (2043545517, 2109941572) contains 73 putative matches.
+[23:52:35.540902][info] 	- image pair (2091417175, 2109941572) contains 69 putative matches.
+[23:52:35.540902][info] Task (Regions Matching) done in (s): 4.027000
+[23:52:35.540902][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:52:37.108184][info] 2 geometric image pair matches:
+[23:52:37.108184][info] 	- image pair (1617173940, 2043545517) contains 54 geometric matches.
+[23:52:37.108184][info] 	- image pair (1961011513, 2091417175) contains 59 geometric matches.
+[23:52:37.108184][info] Grid filtering
+[23:52:37.108184][info] After grid filtering:
+[23:52:37.108184][info] 	- image pair (1617173940, 2043545517) contains 54 geometric matches.
+[23:52:37.108184][info] 	- image pair (1961011513, 2091417175) contains 59 geometric matches.
+[23:52:37.108184][info] Save geometric matches.
+[23:52:37.139429][info] Task done in (s): 1.586000

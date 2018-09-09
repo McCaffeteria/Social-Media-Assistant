@@ -1,0 +1,150 @@
+Program called with the following parameters:
+ * downscale = 2
+ * ini = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/PrepareDenseScene/67dcdbc0d63acb4d1762a5e3087a032c1b0ed571/mvs.ini"
+ * output = "C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e"
+ * rangeSize = 3
+ * rangeStart = 0
+ * refineGammaC = 15.5
+ * refineGammaP = 8
+ * refineMaxTCams = 6
+ * refineNDepthsToRefine = 31
+ * refineNSamplesHalf = 150
+ * refineNiters = 100
+ * refineSigma = 15
+ * refineUseTcOrRcPixSize = 0
+ * refineWSH = 3
+ * sgmGammaC = 5.5
+ * sgmGammaP = 8
+ * sgmMaxTCams = 10
+ * sgmWSH = 4
+ * verboseLevel = "info"
+
+[23:52:43.620345][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    GeForce GPU
+	- compute capability:      5.0
+	- total device memory:     1024 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- number of SM(x)s:        3
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+
+[23:52:44.489250][info] Supported CUDA-Enabled GPU detected.
+[23:52:44.489250][info] Found 1 image dimension(s): 
+[23:52:44.489250][info]  - [3264x2448]
+[23:52:44.504862][info] Overall maximum dimension: [1632x1224]
+[23:52:44.504862][info] Create depth maps.
+number of CUDA devices:	1
+   0: GeForce GPU
+[23:52:44.504862][info] Number of GPU devices: 1, number of CPU threads: 4
+[23:52:44.504862][info] PSSGM autoScaleStep: scale: 2, step: 2
+[23:52:44.504862][info] PlaneSweepingCuda:
+	- nImgsInGPUAtTime: 2
+	- scales: 2
+	- subPixel: Yes
+	- varianceWSH: 
+CUDA device no 0 for 0
+Device 0 memory - used: 195.181244, free: 828.818726, total: 1024.000000
+Device 0 memory - used: 215.181244, free: 808.818726, total: 1024.000000
+[23:52:48.581746][info] Compute depth map: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e/903486380_idDepthMap_scale2_step2_SGM.png
+[23:52:48.581746][warning] rc: 0 - found only 1/10 tc by seeds
+Device 0 memory - used: 232.368744, free: 791.631226, total: 1024.000000
+total size of volume map in GPU memory: 17.182617
+nDepths 115, nDepthsToSearch 115 
+ps_computeSimilarityVolume elapsed time: 840.000000 ms 
+ps_SGMoptimizeSimVolume
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+SGM volume gpu elapsed time: 1183.000000 ms 
+ps_SGMoptimizeSimVolume done
+[23:52:51.071041][info] Compute depth map: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Exports/Meshroom/MeshroomCache/DepthMap/3d00e3e2e2be3e0b29b55dbdad7eb0089722c47e/2002237245_idDepthMap_scale2_step2_SGM.png
+[23:52:51.071041][warning] rc: 1 - found only 1/10 tc by seeds
+Device 0 memory - used: 240.931244, free: 783.068726, total: 1024.000000
+total size of volume map in GPU memory: 25.699219
+nDepths 172, nDepthsToSearch 172 
+ps_computeSimilarityVolume elapsed time: 1994.000000 ms 
+ps_SGMoptimizeSimVolume
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+ps_updateAggrVolume
+ps_aggregatePathVolume
+ps_aggregatePathVolume done
+ps_updateAggrVolume done
+SGM volume gpu elapsed time: 1388.000000 ms 
+ps_SGMoptimizeSimVolume done
+number of CUDA devices:	1
+   0: GeForce GPU
+[23:52:55.119945][info] Number of GPU devices: 1, number of CPU threads: 4
+[23:52:55.119945][info] PSSGM autoScaleStep scale: 2, step: 2
+[23:52:55.119945][info] PlaneSweepingCuda:
+	- nImgsInGPUAtTime: 2
+	- scales: 2
+	- subPixel: Yes
+	- varianceWSH: 
+CUDA device no 0 for 0
+Device 0 memory - used: 195.181244, free: 828.818726, total: 1024.000000
+Device 0 memory - used: 215.181244, free: 808.818726, total: 1024.000000
+[23:52:58.470003][warning] rc: 0 - found only 1/10 tc by seeds
+[23:52:58.470003][warning] rc: 0 - found only 1/6 tc by seeds
+gpu elapsed time: 122.000000 ms 
+gpu elapsed time: 527.000000 ms 
+gpu elapsed time: 731.000000 ms 
+gpu elapsed time: 454.000000 ms 
+gpu elapsed time: 363.000000 ms 
+gpu elapsed time: 353.000000 ms 
+gpu elapsed time: 363.000000 ms 
+gpu elapsed time: 359.000000 ms 
+rc: 0, gpu elapsed time: 473.000000 ms 
+rc: 0, gpu elapsed time: 456.000000 ms 
+rc: 0, gpu elapsed time: 457.000000 ms 
+rc: 0, gpu elapsed time: 440.000000 ms 
+[23:53:04.643106][warning] rc: 1 - found only 1/10 tc by seeds
+[23:53:04.643106][warning] rc: 1 - found only 1/6 tc by seeds
+gpu elapsed time: 1219.000000 ms 
+gpu elapsed time: 1220.000000 ms 
+gpu elapsed time: 1221.000000 ms 
+gpu elapsed time: 1221.000000 ms 
+gpu elapsed time: 351.000000 ms 
+gpu elapsed time: 350.000000 ms 
+gpu elapsed time: 353.000000 ms 
+gpu elapsed time: 340.000000 ms 
+rc: 1, gpu elapsed time: 442.000000 ms 
+rc: 1, gpu elapsed time: 447.000000 ms 
+rc: 1, gpu elapsed time: 452.000000 ms 
+rc: 1, gpu elapsed time: 442.000000 ms 
+[23:53:13.759860][info] Task done in (s): 30.143000

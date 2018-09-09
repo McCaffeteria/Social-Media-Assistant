@@ -1,0 +1,49 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 29<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 903486380<br>image path: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6597.JPG<br>-> View J:<br>id: 2002237245<br>image path: C:/Users/allkn/Documents/Social Media Assistant Stuff/Seahawk head/Image Source/IMG_6581.JPG<br><br>- Threshold: 883.899<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 726<br>- # points validated by robust estimation: 227<br>- % points validated: 0.312672<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 883.899</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.11111,0.22222,0.33333,0.44444,0.55556,0.66667,0.77778,0.88889,1.00000,];
+var data1= [0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+var p2 = board.create('point',[883.89896,0.00000], {fixed:true});
+var p3 = board.create('point',[883.89896,0.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.20000,0.00000,1.20000,0.00000]);
+</script>
+<hr><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 29<br>- # camera calibrated: 2<br>- # landmarks: 227<br>- elapsed time: 0<br>- residual RMSE: 0.615174<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00005,0.33134,0.66263,0.99392,1.32521,1.65650,1.98780,2.31909,2.65038,2.98167,];
+var data1= [488.00000,191.00000,107.00000,61.00000,31.00000,11.00000,11.00000,4.00000,2.00000,2.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.59628,585.20000,3.57799,-95.20000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [-nan(ind),];
+var data1= [227.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+board.unsuspendUpdate();
+board.setBoundingBox([-nan(ind),227.00000,-nan(ind),227.00000]);
+</script>
+</html>
