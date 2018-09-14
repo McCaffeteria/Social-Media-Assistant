@@ -1,0 +1,597 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1536887051019",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Materials",
+                        "Photo Export"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Merged 1024"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Meshes",
+                        "Model"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "Post_effect_lookup_table"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "billboard_multi_face"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "vignette"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "Overlay Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1515437954945331:32055",
+                    "1515437955024915:32226",
+                    "1515437955065812:32344",
+                    "1515447226609287:53040",
+                    "1515449132383005:15306",
+                    "1515451110518990:20746",
+                    "1515451110648530:20844",
+                    "1515455815627613:90623",
+                    "1515456190475596:102244",
+                    "1515456198509883:105525",
+                    "1515456871716258:120137",
+                    "1515457433034661:133508",
+                    "1515457433041807:133512",
+                    "1515457466938051:134855",
+                    "1515457534904396:141848",
+                    "1515457534965412:141923",
+                    "1521511805504827:32161"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "7644c093c6ed8aefc5cb538dff098230",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Cecil Seahawk",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515456804637592:117173",
+                    "1515456823497523:117420",
+                    "1515456871722110:120141",
+                    "1515456897991503:121200",
+                    "1515457433047428:133516",
+                    "1515464433763075:32422",
+                    "1515464487246879:32511",
+                    "1515468347440900:16945",
+                    "1521656717027284:89815",
+                    "1521656726144568:92604",
+                    "1521689428684536:7773",
+                    "1521689431419606:10486"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1495032319834957:392",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1515438105511768:9107",
+                    "name": "\/Resources\/Resource54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1515438164609890:9998",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1515438164617136:10034",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1515451110646717:20835",
+                    "name": "sceneObject_111 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1515461681360869:20188",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1521511542666184:7784",
+                    "name": "\/Resources\/Resource315.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1521511542713532:7796",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1521511542715008:7808",
+                    "name": "\/Resources\/Resource317.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1521511542742646:7820",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1521511542744073:7832",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1521511542756928:7844",
+                    "name": "\/Resources\/Resource320",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "333",
+                    "uid": "1536885636366629:6892",
+                    "name": "\/Resources\/Resource333",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.00.fbx",
+                    "additionalProperties": {
+                        "name": "Photo Export"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "335",
+                    "uid": "1536885636366226:6890",
+                    "name": "\/Resources\/Resource335.mesh",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.00.fbx",
+                    "additionalProperties": {
+                        "name": "Model"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "340",
+                    "uid": "1536886822487780:16646",
+                    "name": "\/Resources\/Resource340.png",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Normal Maps\/Atempt 2\/Merged 1024.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1515448846759604:9356",
+                "1": "1515451110518990:20746",
+                "2": "1515456198509780:105510",
+                "3": "1515456198509850:105516",
+                "4": "1515456198509877:105522",
+                "5": "1521511542662588:7754",
+                "6": "1521511542662605:7757",
+                "7": "1521511542662640:7764",
+                "8": "1521511542662678:7774",
+                "9": "1521511805504827:32161",
+                "10": "1521511805504843:32164",
+                "11": "1536885635857953:6887",
+                "12": "1536885635858576:6888"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "54",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "2D Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "billboard_multi_face",
+                                        "resourceId": "315",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vignette",
+                                        "resourceId": "317",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Post_effect_lookup_table",
+                                        "resourceId": "319",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Overlay Camera Output",
+                                "resourceId": "279",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder Mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder",
+                                "resourceId": "309",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seahawk v03",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Photo Export",
+                                        "resourceId": "333",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Model",
+                                        "resourceId": "335",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Merged 1024",
+                                "resourceId": "340",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/Occluder Mesh.mesh"
+                },
+                {
+                    "id": "54",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "57",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "315",
+                    "path": "Textures\/2D Textures\/billboard_multi_face.png"
+                },
+                {
+                    "id": "317",
+                    "path": "Textures\/2D Textures\/vignette.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
+                },
+                {
+                    "id": "335",
+                    "path": "Seahawk v03\/Meshes\/Model.mesh"
+                },
+                {
+                    "id": "340",
+                    "path": "Seahawk v03\/Merged 1024.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
