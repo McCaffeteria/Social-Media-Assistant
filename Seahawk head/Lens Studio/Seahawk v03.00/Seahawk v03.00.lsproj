@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1536887051019",
+    "lastChanged": "1536903077551",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -40,6 +40,9 @@
                     ],
                     [
                         "Scripts"
+                    ],
+                    [
+                        "Seahawk v03"
                     ],
                     [
                         "Seahawk v03",
@@ -108,7 +111,6 @@
                     "1515437955065812:32344",
                     "1515447226609287:53040",
                     "1515449132383005:15306",
-                    "1515451110518990:20746",
                     "1515451110648530:20844",
                     "1515455815627613:90623",
                     "1515456190475596:102244",
@@ -327,10 +329,10 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "333",
-                    "uid": "1536885636366629:6892",
-                    "name": "\/Resources\/Resource333",
-                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.00.fbx",
+                    "resId": "344",
+                    "uid": "1536902359577938:5458",
+                    "name": "\/Resources\/Resource344",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.01.fbx",
                     "additionalProperties": {
                         "name": "Photo Export"
                     },
@@ -339,10 +341,10 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "335",
-                    "uid": "1536885636366226:6890",
-                    "name": "\/Resources\/Resource335.mesh",
-                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.00.fbx",
+                    "resId": "346",
+                    "uid": "1536902359577781:5456",
+                    "name": "\/Resources\/Resource346.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.01.fbx",
                     "additionalProperties": {
                         "name": "Model"
                     },
@@ -351,10 +353,10 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "340",
-                    "uid": "1536886822487780:16646",
-                    "name": "\/Resources\/Resource340.png",
-                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Normal Maps\/Atempt 2\/Merged 1024.png",
+                    "resId": "347",
+                    "uid": "1536902377467967:5963",
+                    "name": "\/Resources\/Resource347.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Normal Maps\/Atempt 2\/Merged 1024.png",
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "1",
@@ -382,8 +384,8 @@
                 "8": "1521511542662678:7774",
                 "9": "1521511805504827:32161",
                 "10": "1521511805504843:32164",
-                "11": "1536885635857953:6887",
-                "12": "1536885635858576:6888"
+                "11": "1536902359045974:5450",
+                "12": "1536902359046142:5452"
             }
         },
         "LayerComponent": {
@@ -506,7 +508,7 @@
                                 "resources": [
                                     {
                                         "name": "Photo Export",
-                                        "resourceId": "333",
+                                        "resourceId": "344",
                                         "extension": ""
                                     }
                                 ]
@@ -517,7 +519,7 @@
                                 "resources": [
                                     {
                                         "name": "Model",
-                                        "resourceId": "335",
+                                        "resourceId": "346",
                                         "extension": "mesh"
                                     }
                                 ]
@@ -526,7 +528,7 @@
                         "resources": [
                             {
                                 "name": "Merged 1024",
-                                "resourceId": "340",
+                                "resourceId": "347",
                                 "extension": "png"
                             }
                         ]
@@ -564,17 +566,21 @@
                     "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
                 },
                 {
-                    "id": "335",
+                    "id": "346",
                     "path": "Seahawk v03\/Meshes\/Model.mesh"
                 },
                 {
-                    "id": "340",
+                    "id": "347",
                     "path": "Seahawk v03\/Merged 1024.png"
                 }
             ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1515451110518990:20746"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
