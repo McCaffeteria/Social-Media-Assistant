@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1536903077551",
+    "lastChanged": "1536947866240",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -336,7 +336,7 @@
                     "additionalProperties": {
                         "name": "Photo Export"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -578,7 +578,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1515451110518990:20746"
+                    "1536902359045974:5450"
                 ]
             }
         },
