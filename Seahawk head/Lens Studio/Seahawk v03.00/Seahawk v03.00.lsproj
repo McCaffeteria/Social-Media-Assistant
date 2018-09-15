@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1536947866240",
+    "lastChanged": "1536992266829",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -25,7 +25,29 @@
             "collapsedList": [
                 [
                     [
-                        "Materials"
+                        "Glasses v02",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Arms"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Dots"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Glasses"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Lenses"
                     ],
                     [
                         "Materials",
@@ -40,9 +62,6 @@
                     ],
                     [
                         "Scripts"
-                    ],
-                    [
-                        "Seahawk v03"
                     ],
                     [
                         "Seahawk v03",
@@ -111,6 +130,7 @@
                     "1515437955065812:32344",
                     "1515447226609287:53040",
                     "1515449132383005:15306",
+                    "1515451110518990:20746",
                     "1515451110648530:20844",
                     "1515455815627613:90623",
                     "1515456190475596:102244",
@@ -361,6 +381,66 @@
                     "flags": "1",
                     "type": "1",
                     "subtype": "0"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1536991559770876:2706",
+                    "name": "\/Resources\/Resource348",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Material"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1536991559310562:2698",
+                    "name": "\/Resources\/Resource350.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Dots"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "351",
+                    "uid": "1536991559308394:2692",
+                    "name": "\/Resources\/Resource351.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Lenses"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "352",
+                    "uid": "1536991559307460:2686",
+                    "name": "\/Resources\/Resource352.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Arms"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1536991559673736:2704",
+                    "name": "\/Resources\/Resource353.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Glasses"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
                 }
             ]
         },
@@ -385,7 +465,12 @@
                 "9": "1521511805504827:32161",
                 "10": "1521511805504843:32164",
                 "11": "1536902359045974:5450",
-                "12": "1536902359046142:5452"
+                "12": "1536902359046142:5452",
+                "13": "1536991558936604:2680",
+                "14": "1536991559244680:2682",
+                "15": "1536991559307534:2688",
+                "16": "1536991559308427:2694",
+                "17": "1536991559310596:2700"
             }
         },
         "LayerComponent": {
@@ -532,6 +617,49 @@
                                 "extension": "png"
                             }
                         ]
+                    },
+                    {
+                        "name": "Glasses v02",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "resourceId": "348",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Dots",
+                                        "resourceId": "350",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Lenses",
+                                        "resourceId": "351",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Arms",
+                                        "resourceId": "352",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Glasses",
+                                        "resourceId": "353",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
                     }
                 ],
                 "resources": ""
@@ -572,13 +700,35 @@
                 {
                     "id": "347",
                     "path": "Seahawk v03\/Merged 1024.png"
+                },
+                {
+                    "id": "350",
+                    "path": "Glasses v02\/Meshes\/Dots.mesh"
+                },
+                {
+                    "id": "351",
+                    "path": "Glasses v02\/Meshes\/Lenses.mesh"
+                },
+                {
+                    "id": "352",
+                    "path": "Glasses v02\/Meshes\/Arms.mesh"
+                },
+                {
+                    "id": "353",
+                    "path": "Glasses v02\/Meshes\/Glasses.mesh"
                 }
             ]
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1536902359045974:5450"
+                "resources": [
+                    {
+                        "uid": "1515461681360869:20188",
+                        "path_list": [
+                            "Materials",
+                            "Occluder"
+                        ]
+                    }
                 ]
             }
         },
