@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1536992266829",
+    "lastChanged": "1537042072899",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -24,6 +24,9 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Glasses v02"
+                    ],
                     [
                         "Glasses v02",
                         "Materials",
@@ -50,6 +53,9 @@
                         "Lenses"
                     ],
                     [
+                        "Materials"
+                    ],
+                    [
                         "Materials",
                         "Occluder"
                     ],
@@ -64,13 +70,24 @@
                         "Scripts"
                     ],
                     [
+                        "Scripts",
+                        "Toggle WIP"
+                    ],
+                    [
+                        "Seahawk v03"
+                    ],
+                    [
                         "Seahawk v03",
                         "Materials",
                         "Photo Export"
                     ],
                     [
                         "Seahawk v03",
-                        "Merged 1024"
+                        "Merged 1024 Full UV Layout"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Merged 1024 Full UV Layout params"
                     ],
                     [
                         "Seahawk v03",
@@ -130,7 +147,6 @@
                     "1515437955065812:32344",
                     "1515447226609287:53040",
                     "1515449132383005:15306",
-                    "1515451110518990:20746",
                     "1515451110648530:20844",
                     "1515455815627613:90623",
                     "1515456190475596:102244",
@@ -141,15 +157,16 @@
                     "1515457466938051:134855",
                     "1515457534904396:141848",
                     "1515457534965412:141923",
-                    "1521511805504827:32161"
+                    "1521511805504827:32161",
+                    "1536991558936604:2680"
                 ]
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "7644c093c6ed8aefc5cb538dff098230",
+            "icon_hash": "26bb81b0185c1188b2d069c83bcd7c61",
             "icon_path": "icon.png",
             "hints": [
-                ""
+                "lens_hint_try_friend"
             ],
             "lens": "Cecil Seahawk",
             "camera": "2",
@@ -220,16 +237,6 @@
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "3",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "54",
-                    "uid": "1515438105511768:9107",
-                    "name": "\/Resources\/Resource54.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
                     "subtype": "0"
                 },
                 {
@@ -373,16 +380,6 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "347",
-                    "uid": "1536902377467967:5963",
-                    "name": "\/Resources\/Resource347.png",
-                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Normal Maps\/Atempt 2\/Merged 1024.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
                     "resId": "348",
                     "uid": "1536991559770876:2706",
                     "name": "\/Resources\/Resource348",
@@ -390,7 +387,7 @@
                     "additionalProperties": {
                         "name": "Material"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -441,6 +438,36 @@
                     "flags": "5",
                     "type": "3",
                     "subtype": "0"
+                },
+                {
+                    "resId": "360",
+                    "uid": "1537033574384700:5502",
+                    "name": "\/Resources\/Resource360.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Textures\/Merged 1024 Full UV Layout params.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "365",
+                    "uid": "1537036139148347:7459",
+                    "name": "\/Resources\/Resource365.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Textures\/Merged 1024 Full UV Layout.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "366",
+                    "uid": "1537039071296255:4278",
+                    "name": "\/Resources\/Resource366.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
                 }
             ]
         },
@@ -470,7 +497,15 @@
                 "14": "1536991559244680:2682",
                 "15": "1536991559307534:2688",
                 "16": "1536991559308427:2694",
-                "17": "1536991559310596:2700"
+                "17": "1536991559310596:2700",
+                "18": "1537040012668467:15494",
+                "19": "1537040012668481:15497",
+                "20": "1537040012668508:15503",
+                "21": "1537040012668523:15509",
+                "22": "1537040012668536:15515",
+                "23": "1537040036155554:17129",
+                "24": "1537040036155569:17132",
+                "25": "1537040205420767:19524"
             }
         },
         "LayerComponent": {
@@ -503,8 +538,8 @@
                         "groups": "",
                         "resources": [
                             {
-                                "name": "IdleAnim",
-                                "resourceId": "54",
+                                "name": "Toggle WIP",
+                                "resourceId": "366",
                                 "extension": "js"
                             }
                         ]
@@ -612,8 +647,13 @@
                         ],
                         "resources": [
                             {
-                                "name": "Merged 1024",
-                                "resourceId": "347",
+                                "name": "Merged 1024 Full UV Layout params",
+                                "resourceId": "360",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Merged 1024 Full UV Layout",
+                                "resourceId": "365",
                                 "extension": "png"
                             }
                         ]
@@ -637,8 +677,8 @@
                                 "groups": "",
                                 "resources": [
                                     {
-                                        "name": "Dots",
-                                        "resourceId": "350",
+                                        "name": "Arms",
+                                        "resourceId": "352",
                                         "extension": "mesh"
                                     },
                                     {
@@ -647,8 +687,8 @@
                                         "extension": "mesh"
                                     },
                                     {
-                                        "name": "Arms",
-                                        "resourceId": "352",
+                                        "name": "Dots",
+                                        "resourceId": "350",
                                         "extension": "mesh"
                                     },
                                     {
@@ -668,10 +708,6 @@
                 {
                     "id": "5",
                     "path": "Meshes\/Occluder Mesh.mesh"
-                },
-                {
-                    "id": "54",
-                    "path": "Scripts\/IdleAnim.js"
                 },
                 {
                     "id": "57",
@@ -698,10 +734,6 @@
                     "path": "Seahawk v03\/Meshes\/Model.mesh"
                 },
                 {
-                    "id": "347",
-                    "path": "Seahawk v03\/Merged 1024.png"
-                },
-                {
                     "id": "350",
                     "path": "Glasses v02\/Meshes\/Dots.mesh"
                 },
@@ -716,21 +748,23 @@
                 {
                     "id": "353",
                     "path": "Glasses v02\/Meshes\/Glasses.mesh"
+                },
+                {
+                    "id": "360",
+                    "path": "Seahawk v03\/Merged 1024 Full UV Layout params.png"
+                },
+                {
+                    "id": "365",
+                    "path": "Seahawk v03\/Merged 1024 Full UV Layout.png"
+                },
+                {
+                    "id": "366",
+                    "path": "Scripts\/Toggle WIP.js"
                 }
             ]
         },
         "InspectorController": {
-            "selection": {
-                "resources": [
-                    {
-                        "uid": "1515461681360869:20188",
-                        "path_list": [
-                            "Materials",
-                            "Occluder"
-                        ]
-                    }
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
