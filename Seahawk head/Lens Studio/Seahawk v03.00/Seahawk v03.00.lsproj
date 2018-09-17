@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1537042072899",
+    "lastChanged": "1537214112127",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -122,6 +122,10 @@
                     ],
                     [
                         "Textures",
+                        "Cecil-College-Stroke"
+                    ],
+                    [
+                        "Textures",
                         "Device Camera Texture"
                     ],
                     [
@@ -163,7 +167,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "26bb81b0185c1188b2d069c83bcd7c61",
+            "icon_hash": "a5b0d73a9f2a62482e1a2eadac551d79",
             "icon_path": "icon.png",
             "hints": [
                 "lens_hint_try_friend"
@@ -468,6 +472,16 @@
                     "flags": "1",
                     "type": "4",
                     "subtype": "0"
+                },
+                {
+                    "resId": "368",
+                    "uid": "1537212899526689:5766",
+                    "name": "\/Resources\/Resource368.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Graphics\/Cecil-College-Stroke.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
                 }
             ]
         },
@@ -594,6 +608,11 @@
                                 "name": "Overlay Camera Output",
                                 "resourceId": "279",
                                 "extension": ""
+                            },
+                            {
+                                "name": "Cecil-College-Stroke",
+                                "resourceId": "368",
+                                "extension": "png"
                             }
                         ]
                     },
@@ -760,11 +779,19 @@
                 {
                     "id": "366",
                     "path": "Scripts\/Toggle WIP.js"
+                },
+                {
+                    "id": "368",
+                    "path": "Textures\/Cecil-College-Stroke.png"
                 }
             ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1521511542662678:7774"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
