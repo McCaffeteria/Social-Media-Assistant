@@ -1,0 +1,1570 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1537346088342",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cecil-College-Stroke"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "banner_01"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "banner_02"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "team_logo_01"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "team_logo_02"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "half_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "half_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_tertiary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "lines_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "lines_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "quarter_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "quarter_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "swirls_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "swirls_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_tertiary"
+                    ],
+                    [
+                        "Materials",
+                        "face_logo"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_1"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_2"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_3"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "emitter_1000"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "TeamCelebrateController"
+                    ],
+                    [
+                        "Scripts",
+                        "TeamCelebrateProperties"
+                    ],
+                    [
+                        "Seahawk est 1968 distressed FINAL Green 356 resized 2048"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "CameraConfetti Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "half_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "half_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_tertiary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "lines_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "lines_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "quarter_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "quarter_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "swirl_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "swirl_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_tertiary"
+                    ],
+                    [
+                        "Textures",
+                        "Opacity Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "confetti"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "team_banner"
+                    ],
+                    [
+                        "Textures",
+                        "team_logo"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1525979427713568:131859",
+                    "1526004077278971:219071",
+                    "1526058595590956:210795",
+                    "1526058643711859:222108",
+                    "1526060528691964:354754",
+                    "1526068420755187:342462",
+                    "1526073278817723:677565",
+                    "1526323761150091:26685",
+                    "1527639214117596:114496",
+                    "1527701330673635:33474",
+                    "1527701886339114:69893"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6b90c0e8a26cec2537660419f6465c53",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Team Celebrate",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                },
+                {
+                    "k": "2",
+                    "v": "0"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1525453828627569:42084",
+                    "name": "\/Resources\/Resource10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1525453828634147:42108",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/VertexLighting\/Public\/Weather\/Snow\/GPU-Particle_Preset_Snow\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1525454066953713:42710",
+                    "name": "\/Resources\/Resource14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1525462219056362:2716",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/VertexLighting\/Public\/Weather\/Snow\/GPU-Particle_Preset_Snow\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1525462382163229:8391",
+                    "name": "\/Resources\/Resource18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1525464264625401:11579",
+                    "name": "\/Resources\/Resource19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1525472501548608:59043",
+                    "name": "\/Resources\/Resource26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1525472501759513:59056",
+                    "name": "\/Resources\/Resource27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1525473947577084:106252",
+                    "name": "\/Resources\/Resource29.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1525473947627916:106265",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1525970519353980:12499",
+                    "name": "\/Resources\/Resource66.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1525979531109348:134909",
+                    "name": "CameraConfetti Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1525984649005487:190687",
+                    "name": "\/Resources\/Resource88.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1526001908719090:169287",
+                    "name": "\/Resources\/Resource96.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "hdr_source_path": "\/Applications\/Lens Studio Public 1.5.0.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/envmaps\/echopark.hdr",
+                        "hdr_map_type": "0",
+                        "hdr_map_second_id": "97",
+                        "hdr_import_type": "0"
+                    },
+                    "flags": "9",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1526001908728322:169296",
+                    "name": "\/Resources\/Resource97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "hdr_source_path": "\/Applications\/Lens Studio Public 1.5.0.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/envmaps\/echopark.hdr",
+                        "hdr_map_type": "1",
+                        "hdr_map_second_id": "96",
+                        "hdr_import_type": "0"
+                    },
+                    "flags": "9",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "116",
+                    "uid": "1526004077295259:219155",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "118",
+                    "uid": "1526004077374034:219190",
+                    "name": "\/Resources\/Resource118",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "120",
+                    "uid": "1526057633454411:112981",
+                    "name": "\/Resources\/Resource120",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/VertexLighting\/Public\/Weather\/Snow\/GPU-Particle_Preset_Snow\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1526064811894505:184071",
+                    "name": "\/Resources\/Resource134.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1526064811994818:184084",
+                    "name": "\/Resources\/Resource135.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1526064848098344:184123",
+                    "name": "\/Resources\/Resource138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1526064848202549:184136",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1526069095476612:366242",
+                    "name": "\/Resources\/Resource151.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1526069095558944:366255",
+                    "name": "\/Resources\/Resource152.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "153",
+                    "uid": "1526069095670257:366268",
+                    "name": "\/Resources\/Resource153.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "154",
+                    "uid": "1526069095784100:366281",
+                    "name": "\/Resources\/Resource154.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "155",
+                    "uid": "1526069095901921:366294",
+                    "name": "\/Resources\/Resource155.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1526069096031478:366307",
+                    "name": "\/Resources\/Resource156.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1526323143749014:7469",
+                    "name": "\/Resources\/Resource170",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1526323153458401:11348",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1527702470385163:7973",
+                    "name": "\/Resources\/Resource188",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1527703448673273:11421",
+                    "name": "\/Resources\/Resource189.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1527798291322626:2954",
+                    "name": "\/Resources\/Resource190",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1527798291330589:2991",
+                    "name": "\/Resources\/Resource193.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1527798291332578:3000",
+                    "name": "\/Resources\/Resource194.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1527798366426354:6153",
+                    "name": "\/Resources\/Resource195.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1528220794341492:6710",
+                    "name": "\/Resources\/Resource201",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1528220837769751:6774",
+                    "name": "\/Resources\/Resource202",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1528220844649361:6797",
+                    "name": "\/Resources\/Resource203",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1528221049232190:29503",
+                    "name": "\/Resources\/Resource204",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1528221067322743:29541",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1528310142683503:14037",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1528310152977159:14075",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1528310198327575:18703",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1528310206225372:18732",
+                    "name": "\/Resources\/Resource213",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1528310263622316:23431",
+                    "name": "\/Resources\/Resource214",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1528310269672308:23469",
+                    "name": "\/Resources\/Resource215",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1528310312774772:24651",
+                    "name": "\/Resources\/Resource216",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1528310319124796:24689",
+                    "name": "\/Resources\/Resource217",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1528310324435439:24727",
+                    "name": "\/Resources\/Resource218",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1528310751501777:44734",
+                    "name": "\/Resources\/Resource219",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/sergeipikin\/Documents\/face_paint\/shaders\/facePaint.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1528329403183087:30093",
+                    "name": "\/Resources\/Resource220.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1528329546587665:32365",
+                    "name": "\/Resources\/Resource221.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1529029705374338:11305",
+                    "name": "\/Resources\/Resource222.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1537345888270446:12222",
+                    "name": "\/Resources\/Resource223.png",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Graphics\/Cecil-College-Stroke.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1537345891245404:12231",
+                    "name": "\/Resources\/Resource224.png",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Graphics\/Seahawk est 1968 distressed FINAL Green 356 resized 2048.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1525453828624822:42069",
+                "4": "1525453828624836:42072",
+                "5": "1525462171105482:2040",
+                "6": "1525462394190032:8436",
+                "7": "1525464274002515:11605",
+                "8": "1525472341302658:52846",
+                "9": "1525712537327899:2325",
+                "10": "1525979427713568:131859",
+                "11": "1525980394121965:171665",
+                "12": "1525980539382815:176370",
+                "13": "1526004077278971:219071",
+                "14": "1526004077295407:219164",
+                "15": "1526004077299649:219167",
+                "16": "1526057643841931:113032",
+                "17": "1526058595590956:210795",
+                "18": "1526058643711859:222108",
+                "19": "1526058723455751:229016",
+                "20": "1526058790702197:233158",
+                "21": "1526059036497790:238504",
+                "22": "1526059063794514:242619",
+                "23": "1526059077694201:245822",
+                "24": "1526059095091490:249939",
+                "25": "1526060521296265:354743",
+                "26": "1526060528691964:354754",
+                "27": "1526064853105858:184153",
+                "28": "1526064853105873:184156",
+                "29": "1526064853105925:184163",
+                "30": "1526064855028231:186275",
+                "31": "1526064855028244:186278",
+                "32": "1526064855028284:186285",
+                "33": "1526068420755187:342462",
+                "34": "1526068420755202:342465",
+                "35": "1526069100779325:366324",
+                "36": "1526069100779341:366327",
+                "37": "1526069100779384:366334",
+                "38": "1526069108428687:368582",
+                "39": "1526069108428707:368585",
+                "40": "1526069108428763:368592",
+                "41": "1526069120522383:371140",
+                "42": "1526069126180303:375485",
+                "43": "1526073278817723:677565",
+                "44": "1526323143704132:7460",
+                "45": "1526323761150091:26685",
+                "46": "1527639214117596:114496",
+                "47": "1527639214117646:114499",
+                "48": "1527701330673635:33474",
+                "49": "1527701330673649:33477",
+                "50": "1527701886339114:69893",
+                "51": "1527701886339128:69896",
+                "52": "1527701886339189:69903",
+                "53": "1527702470314945:7950"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Confetti",
+                    "layerMask": "8"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Materials",
+                        "groups": [
+                            {
+                                "name": "Face Paint",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "vertical_three_primary",
+                                        "resourceId": "201",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_secondary",
+                                        "resourceId": "202",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_tertiary",
+                                        "resourceId": "203",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "half_primary",
+                                        "resourceId": "204",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "half_secondary",
+                                        "resourceId": "205",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "lines_primary",
+                                        "resourceId": "210",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "lines_secondary",
+                                        "resourceId": "211",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "swirls_primary",
+                                        "resourceId": "212",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "swirls_secondary",
+                                        "resourceId": "213",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "quarter_primary",
+                                        "resourceId": "214",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "quarter_secondary",
+                                        "resourceId": "215",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_primary",
+                                        "resourceId": "216",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_secondary",
+                                        "resourceId": "217",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_tertiary",
+                                        "resourceId": "218",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "particle_confetti_1",
+                                "resourceId": "12",
+                                "extension": ""
+                            },
+                            {
+                                "name": "particle_confetti_2",
+                                "resourceId": "17",
+                                "extension": ""
+                            },
+                            {
+                                "name": "particle_confetti_3",
+                                "resourceId": "120",
+                                "extension": ""
+                            },
+                            {
+                                "name": "face_logo",
+                                "resourceId": "219",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "Face Paint",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "lines_primary",
+                                        "resourceId": "26",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "lines_secondary",
+                                        "resourceId": "27",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "swirl_primary",
+                                        "resourceId": "29",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "swirl_secondary",
+                                        "resourceId": "30",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "half_primary",
+                                        "resourceId": "134",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "half_secondary",
+                                        "resourceId": "135",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "quarter_primary",
+                                        "resourceId": "138",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "quarter_secondary",
+                                        "resourceId": "139",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "horizontal_three_tertiary",
+                                        "resourceId": "151",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "horizontal_three_secondary",
+                                        "resourceId": "152",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "horizontal_three_primary",
+                                        "resourceId": "153",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vertical_three_tertiary",
+                                        "resourceId": "154",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vertical_three_secondary",
+                                        "resourceId": "155",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vertical_three_primary",
+                                        "resourceId": "156",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opacity Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "full_no_eye_lips",
+                                        "resourceId": "88",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "confetti",
+                                "resourceId": "14",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "team_logo",
+                                "resourceId": "66",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "CameraConfetti Output",
+                                "resourceId": "79",
+                                "extension": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "96",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "97",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Orthographic Camera Output",
+                                "resourceId": "116",
+                                "extension": ""
+                            },
+                            {
+                                "name": "team_banner",
+                                "resourceId": "222",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "TeamCelebrateController",
+                                "resourceId": "18",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TeamCelebrateProperties",
+                                "resourceId": "19",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "emitter_1000",
+                                "resourceId": "10",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Example Resources [REMOVE_ME]",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "banner_01",
+                                "resourceId": "189",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "team_logo_01",
+                                "resourceId": "195",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "banner_02",
+                                "resourceId": "220",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "team_logo_02",
+                                "resourceId": "221",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Cecil-College-Stroke",
+                        "resourceId": "223",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Seahawk est 1968 distressed FINAL Green 356 resized 2048",
+                        "resourceId": "224",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "10",
+                    "path": "Models\/emitter_1000.mesh"
+                },
+                {
+                    "id": "14",
+                    "path": "Textures\/confetti.png"
+                },
+                {
+                    "id": "18",
+                    "path": "Scripts\/TeamCelebrateController.js"
+                },
+                {
+                    "id": "19",
+                    "path": "Scripts\/TeamCelebrateProperties.js"
+                },
+                {
+                    "id": "26",
+                    "path": "Textures\/Face Paint\/lines_primary.png"
+                },
+                {
+                    "id": "27",
+                    "path": "Textures\/Face Paint\/lines_secondary.png"
+                },
+                {
+                    "id": "29",
+                    "path": "Textures\/Face Paint\/swirl_primary.png"
+                },
+                {
+                    "id": "30",
+                    "path": "Textures\/Face Paint\/swirl_secondary.png"
+                },
+                {
+                    "id": "66",
+                    "path": "Textures\/team_logo.png"
+                },
+                {
+                    "id": "88",
+                    "path": "Textures\/Opacity Textures\/full_no_eye_lips.png"
+                },
+                {
+                    "id": "96",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "97",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "134",
+                    "path": "Textures\/Face Paint\/half_primary.png"
+                },
+                {
+                    "id": "135",
+                    "path": "Textures\/Face Paint\/half_secondary.png"
+                },
+                {
+                    "id": "138",
+                    "path": "Textures\/Face Paint\/quarter_primary.png"
+                },
+                {
+                    "id": "139",
+                    "path": "Textures\/Face Paint\/quarter_secondary.png"
+                },
+                {
+                    "id": "151",
+                    "path": "Textures\/Face Paint\/horizontal_three_tertiary.png"
+                },
+                {
+                    "id": "152",
+                    "path": "Textures\/Face Paint\/horizontal_three_secondary.png"
+                },
+                {
+                    "id": "153",
+                    "path": "Textures\/Face Paint\/horizontal_three_primary.png"
+                },
+                {
+                    "id": "154",
+                    "path": "Textures\/Face Paint\/vertical_three_tertiary.png"
+                },
+                {
+                    "id": "155",
+                    "path": "Textures\/Face Paint\/vertical_three_secondary.png"
+                },
+                {
+                    "id": "156",
+                    "path": "Textures\/Face Paint\/vertical_three_primary.png"
+                },
+                {
+                    "id": "189",
+                    "path": "Example Resources [REMOVE_ME]\/banner_01.png"
+                },
+                {
+                    "id": "195",
+                    "path": "Example Resources [REMOVE_ME]\/team_logo_01.png"
+                },
+                {
+                    "id": "220",
+                    "path": "Example Resources [REMOVE_ME]\/banner_02.png"
+                },
+                {
+                    "id": "221",
+                    "path": "Example Resources [REMOVE_ME]\/team_logo_02.png"
+                },
+                {
+                    "id": "222",
+                    "path": "Textures\/team_banner.png"
+                },
+                {
+                    "id": "223",
+                    "path": "Cecil-College-Stroke.png"
+                },
+                {
+                    "id": "224",
+                    "path": "Seahawk est 1968 distressed FINAL Green 356 resized 2048.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1525462394190032:8436"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
