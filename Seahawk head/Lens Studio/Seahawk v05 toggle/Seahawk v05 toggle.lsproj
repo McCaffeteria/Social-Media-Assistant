@@ -1,7 +1,7 @@
 {
-    "lens_id": "",
+    "lens_id": "68bf1d57-f74c-4cec-889d-da89ec6504fb",
     "version": "0",
-    "lastChanged": "1537402480872",
+    "lastChanged": "1537473095180",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -543,19 +543,7 @@
                     ],
                     [
                         "Scripts",
-                        "Toggle Glasses"
-                    ],
-                    [
-                        "Scripts",
-                        "Toggle Seahawk"
-                    ],
-                    [
-                        "Scripts",
                         "Toggle Test Global Toggle"
-                    ],
-                    [
-                        "Scripts",
-                        "Toggle Test Render Layer"
                     ],
                     [
                         "Scripts",
@@ -661,7 +649,7 @@
             "icon_hash": "a5b0d73a9f2a62482e1a2eadac551d79",
             "icon_path": "icon.png",
             "hints": [
-                "lens_hint_try_friend"
+                "lens_hint_tap"
             ],
             "lens": "Cecil Seahawk",
             "camera": "2",
@@ -972,26 +960,6 @@
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "373",
-                    "uid": "1537390741921489:42619",
-                    "name": "\/Resources\/Resource373.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "374",
-                    "uid": "1537390972422894:53799",
-                    "name": "\/Resources\/Resource374.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
                     "subtype": "0"
                 },
                 {
@@ -1937,16 +1905,6 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "462",
-                    "uid": "1537401567856317:282680",
-                    "name": "\/Resources\/Resource462.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
-                    "subtype": "0"
-                },
-                {
                     "resId": "463",
                     "uid": "1537401858754011:303350",
                     "name": "\/Resources\/Resource463.js",
@@ -2026,23 +1984,8 @@
                         "groups": "",
                         "resources": [
                             {
-                                "name": "Toggle Glasses",
-                                "resourceId": "374",
-                                "extension": "js"
-                            },
-                            {
-                                "name": "Toggle Seahawk",
-                                "resourceId": "373",
-                                "extension": "js"
-                            },
-                            {
                                 "name": "Toggle Test Translate",
                                 "resourceId": "459",
-                                "extension": "js"
-                            },
-                            {
-                                "name": "Toggle Test Render Layer",
-                                "resourceId": "462",
                                 "extension": "js"
                             },
                             {
@@ -2694,14 +2637,6 @@
                     "path": "Blank.png"
                 },
                 {
-                    "id": "373",
-                    "path": "Scripts\/Toggle Seahawk.js"
-                },
-                {
-                    "id": "374",
-                    "path": "Scripts\/Toggle Glasses.js"
-                },
-                {
                     "id": "381",
                     "path": "Log_To_Screen\/font_sheet.png"
                 },
@@ -3014,10 +2949,6 @@
                     "path": "Scripts\/Toggle Test Translate.js"
                 },
                 {
-                    "id": "462",
-                    "path": "Scripts\/Toggle Test Render Layer.js"
-                },
-                {
                     "id": "463",
                     "path": "Scripts\/Toggle Test Global Toggle.js"
                 }
@@ -3027,10 +2958,10 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1537393665597044:113950",
+                        "uid": "1537401858754011:303350",
                         "path_list": [
                             "Scripts",
-                            "Toggle Test Translate"
+                            "Toggle Test Global Toggle"
                         ]
                     }
                 ]
