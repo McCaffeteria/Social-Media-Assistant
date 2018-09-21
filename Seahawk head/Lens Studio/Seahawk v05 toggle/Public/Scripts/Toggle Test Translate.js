@@ -8,6 +8,11 @@ if ( global.original == true ) {
     script.items[3].getTransform().setLocalPosition(global.newPosGlassesP2);
     script.items[4].getTransform().setLocalPosition(global.startPosFaceOccP1);
     script.items[5].getTransform().setLocalPosition(global.newPosFaceOccP2);
+    
+    script.items[6].getTransform().setLocalPosition(global.newPosSeaHatP1);
+    script.items[7].getTransform().setLocalPosition(global.newPosSeaHatP2);
+    script.items[8].getTransform().setLocalPosition(global.newPosHatOccP1);
+    script.items[9].getTransform().setLocalPosition(global.newPosHatOccP2);
     global.original = false;
 }
 else {
@@ -17,5 +22,10 @@ else {
     script.items[3].getTransform().setLocalPosition(global.startPosGlassesP2);
     script.items[4].getTransform().setLocalPosition(global.newPosFaceOccP1);
     script.items[5].getTransform().setLocalPosition(global.startPosFaceOccP2);
+    
+    script.items[6].getTransform().setLocalPosition(global.newPosSeaHatP1);
+    script.items[7].getTransform().setLocalPosition(global.newPosSeaHatP2);
+    script.items[8].getTransform().setLocalPosition(global.newPosHatOccP1);
+    script.items[9].getTransform().setLocalPosition(global.newPosHatOccP2);
     global.original = true;
 }
