@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1537491142126",
+    "lastChanged": "1537493645428",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -244,7 +244,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "a1cfc34ecfeca5c8893cd38214fd9521",
+            "icon_hash": "385c0c406e778c7471ac441b7a64fa1b",
             "icon_path": "icon.png",
             "hints": [
                 ""
@@ -871,6 +871,26 @@
         }
     },
     "controller": {
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -1245,26 +1265,6 @@
                     "path": "Logos\/Cecil-College-Stroke.png"
                 }
             ]
-        },
-        "InspectorController": {
-            "selection": ""
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
         }
     }
 }
