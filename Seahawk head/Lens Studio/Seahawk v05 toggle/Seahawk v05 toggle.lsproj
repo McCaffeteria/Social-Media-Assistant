@@ -1,0 +1,956 @@
+{
+    "lens_id": "68bf1d57-f74c-4cec-889d-da89ec6504fb",
+    "version": "0",
+    "lastChanged": "1537490631235",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Blank"
+                    ],
+                    [
+                        "Glasses v02"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Arms"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Dots"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Glasses"
+                    ],
+                    [
+                        "Glasses v02",
+                        "Meshes",
+                        "Lenses"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "Scripts",
+                        "ShowHint"
+                    ],
+                    [
+                        "Scripts",
+                        "Toggle Test Global Toggle"
+                    ],
+                    [
+                        "Scripts",
+                        "Toggle Test Translate"
+                    ],
+                    [
+                        "Scripts",
+                        "Toggle Test Translate Mouth Open"
+                    ],
+                    [
+                        "Seahawk v03"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Materials",
+                        "Photo Export"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Merged 1024 Full UV Layout"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Merged 1024 Full UV Layout params"
+                    ],
+                    [
+                        "Seahawk v03",
+                        "Meshes",
+                        "Model"
+                    ],
+                    [
+                        "Seahawk v04"
+                    ],
+                    [
+                        "Seahawk v04",
+                        "Meshes",
+                        "Model"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "Post_effect_lookup_table"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "billboard_multi_face"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "vignette"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Cecil-College-Stroke"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "Overlay Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1515437954945331:32055",
+                    "1515437955024915:32226",
+                    "1515437955065812:32344",
+                    "1515447226609287:53040",
+                    "1515449132383005:15306",
+                    "1515451110648530:20844",
+                    "1515455815627613:90623",
+                    "1515456190475596:102244",
+                    "1515456198509883:105525",
+                    "1515456871716258:120137",
+                    "1515457433034661:133508",
+                    "1515457433041807:133512",
+                    "1515457466938051:134855",
+                    "1515457534904396:141848",
+                    "1515457534965412:141923",
+                    "1521511805504827:32161",
+                    "1536902359045974:5450",
+                    "1536991558936604:2680",
+                    "1537040012668467:15494",
+                    "1537040036155554:17129",
+                    "1537486311648628:7669"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a5b0d73a9f2a62482e1a2eadac551d79",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Cecil Seahawk",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515456804637592:117173",
+                    "1515456823497523:117420",
+                    "1515456871722110:120141",
+                    "1515456897991503:121200",
+                    "1515457433047428:133516",
+                    "1515464433763075:32422",
+                    "1515464487246879:32511",
+                    "1515468347440900:16945",
+                    "1521656717027284:89815",
+                    "1521656726144568:92604",
+                    "1521689428684536:7773",
+                    "1521689431419606:10486"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1495032319834957:392",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1515438164609890:9998",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1515438164617136:10034",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1515451110646717:20835",
+                    "name": "sceneObject_111 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1515461681360869:20188",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1521511542666184:7784",
+                    "name": "\/Resources\/Resource315.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1521511542713532:7796",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1521511542715008:7808",
+                    "name": "\/Resources\/Resource317.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1521511542742646:7820",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1521511542744073:7832",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1521511542756928:7844",
+                    "name": "\/Resources\/Resource320",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "344",
+                    "uid": "1536902359577938:5458",
+                    "name": "\/Resources\/Resource344",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.01.fbx",
+                    "additionalProperties": {
+                        "name": "Photo Export"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "346",
+                    "uid": "1536902359577781:5456",
+                    "name": "\/Resources\/Resource346.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v03.01.fbx",
+                    "additionalProperties": {
+                        "name": "Model"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1536991559770876:2706",
+                    "name": "\/Resources\/Resource348",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Material"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1536991559310562:2698",
+                    "name": "\/Resources\/Resource350.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Dots"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "351",
+                    "uid": "1536991559308394:2692",
+                    "name": "\/Resources\/Resource351.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Lenses"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "352",
+                    "uid": "1536991559307460:2686",
+                    "name": "\/Resources\/Resource352.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Arms"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1536991559673736:2704",
+                    "name": "\/Resources\/Resource353.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Blend\/Glasses v02.00.fbx",
+                    "additionalProperties": {
+                        "name": "Glasses"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "360",
+                    "uid": "1537033574384700:5502",
+                    "name": "\/Resources\/Resource360.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Textures\/Merged 1024 Full UV Layout params.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "365",
+                    "uid": "1537036139148347:7459",
+                    "name": "\/Resources\/Resource365.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Glasses\/Textures\/Merged 1024 Full UV Layout.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "368",
+                    "uid": "1537212899526689:5766",
+                    "name": "\/Resources\/Resource368.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Graphics\/Cecil-College-Stroke.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "371",
+                    "uid": "1537389776354237:22218",
+                    "name": "\/Resources\/Resource371.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Social-Media-Assistant\/Seahawk head\/Graphics\/Blank.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "459",
+                    "uid": "1537393665597044:113950",
+                    "name": "\/Resources\/Resource459.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "463",
+                    "uid": "1537401858754011:303350",
+                    "name": "\/Resources\/Resource463.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "466",
+                    "uid": "1537486312364479:7672",
+                    "name": "\/Resources\/Resource466.mesh",
+                    "sourceFilePath": "C:\/Users\/allkn\/Documents\/Social-Media-Assistant\/Seahawk head\/Blender\/Seahawk v04.00.fbx",
+                    "additionalProperties": {
+                        "name": "Model"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "467",
+                    "uid": "1537487522533172:37405",
+                    "name": "\/Resources\/Resource467.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "468",
+                    "uid": "1537489901980279:77595",
+                    "name": "\/Resources\/Resource468.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1515448846759604:9356",
+                "1": "1515451110518990:20746",
+                "2": "1515456198509780:105510",
+                "3": "1515456198509850:105516",
+                "4": "1515456198509877:105522",
+                "5": "1521511542662588:7754",
+                "6": "1521511542662605:7757",
+                "7": "1521511542662640:7764",
+                "8": "1521511542662678:7774",
+                "9": "1521511805504827:32161",
+                "10": "1521511805504843:32164",
+                "11": "1536902359045974:5450",
+                "12": "1536902359046142:5452",
+                "13": "1536991558936604:2680",
+                "14": "1536991559244680:2682",
+                "15": "1536991559307534:2688",
+                "16": "1536991559308427:2694",
+                "17": "1536991559310596:2700",
+                "18": "1537040012668467:15494",
+                "19": "1537040012668481:15497",
+                "20": "1537040012668508:15503",
+                "21": "1537040012668523:15509",
+                "22": "1537040012668536:15515",
+                "23": "1537040036155554:17129",
+                "24": "1537040036155569:17132",
+                "25": "1537040205420767:19524",
+                "26": "1537392921522448:98356",
+                "27": "1537486311648628:7669",
+                "28": "1537486311732721:7670",
+                "29": "1537486545783059:12370",
+                "30": "1537486874049303:18690",
+                "31": "1537486874049324:18692",
+                "32": "1537486939599279:22997",
+                "33": "1537489901958814:77571"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Toggle Test Global Toggle",
+                                "resourceId": "463",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Toggle Test Translate Mouth Open",
+                                "resourceId": "467",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Toggle Test Translate",
+                                "resourceId": "459",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "ShowHint",
+                                "resourceId": "468",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "2D Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "billboard_multi_face",
+                                        "resourceId": "315",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vignette",
+                                        "resourceId": "317",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Post_effect_lookup_table",
+                                        "resourceId": "319",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Overlay Camera Output",
+                                "resourceId": "279",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Cecil-College-Stroke",
+                                "resourceId": "368",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder Mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder",
+                                "resourceId": "309",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seahawk v03",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Photo Export",
+                                        "resourceId": "344",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Model",
+                                        "resourceId": "346",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Merged 1024 Full UV Layout params",
+                                "resourceId": "360",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Merged 1024 Full UV Layout",
+                                "resourceId": "365",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glasses v02",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "resourceId": "348",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Arms",
+                                        "resourceId": "352",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Lenses",
+                                        "resourceId": "351",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Dots",
+                                        "resourceId": "350",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Glasses",
+                                        "resourceId": "353",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Seahawk v04",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Model",
+                                        "resourceId": "466",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Blank",
+                        "resourceId": "371",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/Occluder Mesh.mesh"
+                },
+                {
+                    "id": "57",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "315",
+                    "path": "Textures\/2D Textures\/billboard_multi_face.png"
+                },
+                {
+                    "id": "317",
+                    "path": "Textures\/2D Textures\/vignette.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
+                },
+                {
+                    "id": "346",
+                    "path": "Seahawk v03\/Meshes\/Model.mesh"
+                },
+                {
+                    "id": "350",
+                    "path": "Glasses v02\/Meshes\/Dots.mesh"
+                },
+                {
+                    "id": "351",
+                    "path": "Glasses v02\/Meshes\/Lenses.mesh"
+                },
+                {
+                    "id": "352",
+                    "path": "Glasses v02\/Meshes\/Arms.mesh"
+                },
+                {
+                    "id": "353",
+                    "path": "Glasses v02\/Meshes\/Glasses.mesh"
+                },
+                {
+                    "id": "360",
+                    "path": "Seahawk v03\/Merged 1024 Full UV Layout params.png"
+                },
+                {
+                    "id": "365",
+                    "path": "Seahawk v03\/Merged 1024 Full UV Layout.png"
+                },
+                {
+                    "id": "368",
+                    "path": "Textures\/Cecil-College-Stroke.png"
+                },
+                {
+                    "id": "371",
+                    "path": "Blank.png"
+                },
+                {
+                    "id": "459",
+                    "path": "Scripts\/Toggle Test Translate.js"
+                },
+                {
+                    "id": "463",
+                    "path": "Scripts\/Toggle Test Global Toggle.js"
+                },
+                {
+                    "id": "466",
+                    "path": "Seahawk v04\/Meshes\/Model.mesh"
+                },
+                {
+                    "id": "467",
+                    "path": "Scripts\/Toggle Test Translate Mouth Open.js"
+                },
+                {
+                    "id": "468",
+                    "path": "Scripts\/ShowHint.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1537489901958814:77571"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
